@@ -1,5 +1,5 @@
 import socket, os
-from Crypto.Cipher import AES
+from Cryptodome.Cipher import AES
 
 host = "127.0.0.1"
 port = 1337
